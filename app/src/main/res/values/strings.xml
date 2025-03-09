@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tugasWeek1Mobile</string>
+    <string name="btn1_value">Say Hello</string>
+    <string name="hint1_value">Nama</string>
+    <string name="Header">Selamat Datang, Silakan Masukkan Nama Anda</string>
+    <string name="footer">Copyright RaizulF 2025</string>
+    <string name="welcome_message">Hello, %1$s</string>
+    <string name="error_message">Mohon Masukkan Nama Anda</string>
+</resources>
